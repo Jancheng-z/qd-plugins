@@ -1,21 +1,41 @@
-# vue-plugins
+# qd-plugins 
+```
+轻点：CISDI赛迪项目管理一体化平台
+（1）一站式解决项目管理难点
+（2）简约不简单，助理管理便捷
+（3）多级项目计划，轻松管控进度
 
-## Project setup
+轻点组件库
+    
+```
+
+## 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目启动
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 组件库打包
 ```
-npm run lint
+npm run build-bundle
+```
+
+###说明：
+qdInput
+```
+轻点输入框
+功能：
+（1）字数统计；
+（2）文字监控提示；
+（3）高度自定义；
+ (4)聚焦/离焦控制。
 ```
